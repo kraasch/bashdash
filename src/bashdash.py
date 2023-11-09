@@ -17,7 +17,6 @@ while os.path.islink(bin_path):
 dashboard_root=bin_path.parent.parent / 'dashboards'
 
 # parse arguments.
-parser = argparse.ArgumentParser()
 parser = argparse.ArgumentParser(prog=program_name)
 parser.add_argument('-d', '--dashboard', help='Run a dashboard.', type=str)
 parser.add_argument('-l', '--list',      action='store_true', help='Show all dashboards.')
