@@ -5,4 +5,4 @@ example:
 	bashdash --dashboard example
 
 hub_update:
-	@hub_ctrl ${HUB_MODE} ln "$(realpath ./src/bashdash)"
+	@hub_ctrl ${HUB_MODE} ln "$(realpath ./src/bashdash.py)" "${HOME}/.local/bin/bashdash"

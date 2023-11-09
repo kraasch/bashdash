@@ -9,8 +9,7 @@ import pathlib
 program_name='bashdash'
 
 # get path to project.
-path = pathlib.Path(__file__).parent
-bin_path=path / 'bashdash'
+bin_path = pathlib.Path(__file__)
 # if needed follow symlinks.
 while os.path.islink(bin_path):
     bin_path=os.readlink(bin_path) # follow the link.
