@@ -17,9 +17,9 @@ Depends on https://github.com/sqshq/sampler
    - [ ] display astronomical data.
 
  - [ ] make dashboard for system overview.
-   - [ ] run hub-walker
-   - [ ] run git-walker
-   - [ ] run directory validator (eg ~/temp)
+   - [ ] run hub-walker (install script scan).
+   - [ ] run git-walker (git repo scan).
+   - [ ] run watchcat (directory validator).
 
  - [ ] make dashboard for finances.
    - [ ] run check monthly budget (eg ledger-cli).
