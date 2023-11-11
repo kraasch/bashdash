@@ -24,3 +24,7 @@ Depends on https://github.com/sqshq/sampler
  - [ ] make dashboard for finances.
    - [ ] run check monthly budget (eg ledger-cli).
 
+## to-do ideas
+
+ - [ ] maybe use tmuxifier or tumuxify to manage sessions instead of bashdash.
+
