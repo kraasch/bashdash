@@ -1,17 +1,17 @@
 textboxes:
-  - title: TASKS
-    position: [[0, 10], [45, 20]]
-    rate-ms: 10000
-    sample: mdwiki show tasks
-  - title: GITWALKER (UNCOMMITED CHANGES)
-    position: [[45, 10],  [35, 20]]
-    rate-ms: 60000
-    sample: gitwalker
   - title: CALENDAR
-    position: [[0, 0], [15, 10]]
+    position: [[0, 0], [15, 12]]
     rate-ms: 60000
     sample: cal
   - title: WEATHER
-    position: [[15, 0], [19, 10]]
+    position: [[15, 0], [19, 12]]
     rate-ms: 60000
     sample: weather
+  - title: TASKS
+    position: [[0, 12], [45, 20]]
+    rate-ms: 10000
+    sample: mdwiki show tasks
+  - title: GITWALKER (UNCOMMITED CHANGES)
+    position: [[45, 12],  [35, 20]]
+    rate-ms: 60000
+    sample: gitwalker
