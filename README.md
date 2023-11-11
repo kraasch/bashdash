@@ -9,16 +9,14 @@ Depends on https://github.com/sqshq/sampler
 
 ## to-do
 
- - [ ] make dashboard for tasks
-   - [ ] display to-do list (from markdown wiki)
+ - [ ] make dashboard for tasks and system info.
+   - [X] display to-do list (from markdown wiki)
+   - [X] display meteorological data.
+   - [X] run git-walker (git repo scan).
    - [ ] display 3 month calendar dates and holidays.
    - [ ] display 3 week's to-do calendar.
-   - [ ] display meteorological data.
    - [ ] display astronomical data.
-
- - [ ] make dashboard for system overview.
    - [ ] run hub-walker (install script scan).
-   - [ ] run git-walker (git repo scan).
    - [ ] run watchcat (directory validator).
 
  - [ ] make dashboard for finances.
