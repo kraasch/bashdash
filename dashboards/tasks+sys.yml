@@ -4,17 +4,17 @@ textboxes:
     rate-ms: 60000
     sample: cal
   - title: WEATHER
-    position: [[16, 0], [16, 13]]
+    position: [[16, 0], [20, 13]]
     rate-ms: 60000
     sample: weather
-  - title: SUN
-    position: [[32, 0], [23, 13]]
-    rate-ms: 60000
-    sample: sun
   - title: EMPTY
-    position: [[55, 0], [25, 13]]
+    position: [[36, 0], [20, 13]]
     rate-ms: 60000
     sample: echo ''
+  - title: SUN
+    position: [[56, 0], [24, 13]]
+    rate-ms: 60000
+    sample: sun
   - title: TASKS
     position: [[0, 13], [45, 28]]
     rate-ms: 10000
