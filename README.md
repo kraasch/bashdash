@@ -13,10 +13,10 @@ Depends on https://github.com/sqshq/sampler
    - [X] display to-do list (from markdown wiki)
    - [X] display meteorological data.
    - [X] run git-walker (git repo scan).
+   - [X] run hub-walker (install script scan).
    - [ ] display 3 month calendar dates and holidays.
    - [ ] display 3 week's to-do calendar.
    - [ ] display astronomical data.
-   - [ ] run hub-walker (install script scan).
    - [ ] run watchcat (directory validator).
 
  - [ ] make dashboard for finances.

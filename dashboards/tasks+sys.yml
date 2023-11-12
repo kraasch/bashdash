@@ -8,10 +8,14 @@ textboxes:
     rate-ms: 60000
     sample: weather
   - title: TASKS
-    position: [[0, 12], [45, 20]]
+    position: [[0, 12], [45, 29]]
     rate-ms: 10000
     sample: mdwiki show tasks
-  - title: GITWALKER (UNCOMMITED CHANGES)
-    position: [[45, 12],  [35, 20]]
+  - title: GITWALKER
+    position: [[45, 12],  [35, 15]]
     rate-ms: 60000
     sample: gitwalker
+  - title: HUBWALKER
+    position: [[45, 26],  [35, 15]]
+    rate-ms: 60000
+    sample: hub
