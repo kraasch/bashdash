@@ -1,21 +1,29 @@
 textboxes:
   - title: CALENDAR
-    position: [[0, 0], [15, 12]]
+    position: [[0, 0], [16, 13]]
     rate-ms: 60000
     sample: cal
   - title: WEATHER
-    position: [[15, 0], [19, 12]]
+    position: [[16, 0], [16, 13]]
     rate-ms: 60000
     sample: weather
+  - title: SUN
+    position: [[32, 0], [23, 13]]
+    rate-ms: 60000
+    sample: sun
+  - title: EMPTY
+    position: [[55, 0], [25, 13]]
+    rate-ms: 60000
+    sample: echo ''
   - title: TASKS
-    position: [[0, 12], [45, 29]]
+    position: [[0, 13], [45, 28]]
     rate-ms: 10000
     sample: mdwiki show tasks
   - title: GITWALKER
-    position: [[45, 12],  [35, 15]]
+    position: [[45, 13],  [35, 15]]
     rate-ms: 60000
     sample: gitwalker
   - title: HUBWALKER
-    position: [[45, 26],  [35, 15]]
+    position: [[45, 27],  [35, 14]]
     rate-ms: 60000
     sample: hub
