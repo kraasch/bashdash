@@ -9,7 +9,7 @@ textboxes:
     sample: weather
   - title: WATCHCAT
     position: [[36, 0], [20, 13]]
-    rate-ms: 60000
+    rate-ms: 10000
     sample: watchcat --level 3
   - title: SUN
     position: [[56, 0], [24, 13]]
